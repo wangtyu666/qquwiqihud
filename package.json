@@ -1,0 +1,31 @@
+{
+  "name": "qquwiqihud",
+  "version": "1.4.2",
+  "author": "Ryan Kelly <ryan@rfk.id.au>",
+  "description": "The PyPy Python VM, in JavaScript",
+  "keywords": [
+    "python",
+    "pypy",
+    "asmjs",
+    "emscripten",
+    "wtf"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangtyu666/qquwiqihud"
+  },
+  "homepage": "https://github.com/wangtyu666/qquwiqihud",
+  "bugs": "https://github.com/wangtyu666/qquwiqihud/issues/",
+  "main": "./lib/pypyjs.js",
+  "files": [
+    "lib/",
+    "tools/",
+    "README.rst"
+  ],
+  "dependencies": {
+    "uyyuytdrrr": "^2.0.1",
+    "wulskuuuu": "^3.0.3",
+    "nymuuwkhjh": "^3.0.5"
+  },
+  "license": "MIT"
+}
